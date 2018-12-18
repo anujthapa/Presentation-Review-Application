@@ -1,0 +1,38 @@
+.presentation{
+    width: 70vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;   
+    align-content: flex-start;
+   
+}
+
+.post{
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: flex-start; 
+    background-color: beige;
+    margin: 1vh;
+    padding: 1vh;
+      
+  
+}
+
+.post p,button,h4{
+flex:1;
+}
+
+button{
+    font-size: inherit;
+    margin:0.5vw;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow
+}

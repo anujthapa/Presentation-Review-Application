@@ -1,0 +1,6 @@
+.recent{
+    width: 70vw;
+    padding: 2.7vw;
+    display: flex;
+    flex-wrap: wrap;
+}
